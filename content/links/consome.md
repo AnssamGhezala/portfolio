@@ -1,5 +1,6 @@
 ---
 title: Consome
+cover:
 date: "2018-03-03"
 link: https://github.com/siffogh/consome
 tags: ['project', 'javascript', 'node']

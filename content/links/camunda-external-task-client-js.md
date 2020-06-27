@@ -1,5 +1,6 @@
 ---
 title: Camunda external task client
+cover:
 date: "2018-02-21"
 link: https://github.com/camunda/camunda-external-task-client-js
 tags: ['project', 'javascript', 'node']
