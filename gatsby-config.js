@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Hacker Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Seif Ghezala',
+    siteDescription: 'Frontend Developer',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Seif Ghezala',
+    authorDescription: 'Frontend Developer', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:seif@tinloof.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/seif_ghezala`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        url: `https://github.com/siffogh`
       }
     ]
   },
@@ -61,13 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Chronoblog Gatsby Theme`,
-        short_name: `Chronoblog`,
+        name: `Seif Ghezala`,
+        short_name: `Seif`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
+        icon: `src/assets/favicon.jpeg`
       }
     },
     {
