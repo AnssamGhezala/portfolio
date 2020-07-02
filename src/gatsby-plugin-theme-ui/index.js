@@ -15,17 +15,17 @@ export default {
     ...chronoblogTheme.color,
     text: '#111',
     background: '#fdfdfd',
-    link: '#155045',
-    primary: '#104c4e',
-    secondary: '#1B6A6D',
-    muted: '#d5dedb',
+    link: '#3740ff',
+    primary: '#3740ff',
+    secondary: '#eff0ff',
+    muted: '#eff0ff',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {
         ...chronoblogTheme.colors.modes.dark,
         text: '#eaeaea',
         background: '#080c0a',
-        link: '#2e8877',
+        link: '#ffa7c4',
         muted: '#161d1c'
       }
     }
